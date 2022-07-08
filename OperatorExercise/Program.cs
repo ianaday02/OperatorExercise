@@ -20,7 +20,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             if (a == 17 && b == 4)
             {
-                Console.WriteLine("17/4 is 4 remainder 1");
+                Console.WriteLine($"{a}/{b} is {quotient} remainder {remainder}");
             }
 
             //Exercise 2
